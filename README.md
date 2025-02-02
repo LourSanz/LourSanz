@@ -2,7 +2,7 @@
 - 👀 I’m interested in practice and learning
 - 🌱 I’m currently learning Netbeans
 - 💞️ I’m looking to collaborate on systems enterprises
-- 📫 How to reach me https://www.linkedin.com/in/lourdes-sanchez-almaraz/
+- 📫 How to reach me https://www.linkedin.com/in/lgabriela-sancheza/
 
 <!---
 LourSanz/LourSanz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
